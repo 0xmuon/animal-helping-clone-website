@@ -9,6 +9,9 @@ Donation System: Interface for making donations to support the shelter.
 Volunteer Registration: Sign up to volunteer and view opportunities.
 Blog/News Section: Read articles and news related to animal care and shelter updates
 
+
+
+
 #### Credits:(Inspired By)
 
 [American Society for the Prevention of Cruelty to Animals](https://www.aspca.org/)
